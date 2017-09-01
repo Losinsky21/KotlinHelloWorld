@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         exitButton.setOnClickListener{
-            exitProcess(1)
+            exitProcess(0)
         }
     }
 }

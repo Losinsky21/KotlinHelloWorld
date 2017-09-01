@@ -3,8 +3,10 @@
 
     <!-- TextViews text -->
     <string name="greeting_text">Tekst powitalny "Hello world!"</string>
-    <string name="about_me_text">Coś tam o mnie</string>
     <string name="kotlin_text">Kotlin</string>
+    <string name="about_me_text">Student informatyki w Katowicach (Uniwersytet Ekonomiczny). Jeżeli chodzi o programowanie to chciałbym się bardzo nauczyć programowania
+    w Java/Kotlin/C++ co za tym idzie chciałbym nauczyć się dwóch frameworków: Android i Spring. Za programowanie bardziej na powaznie wziąłem się w te wakacje. Lubię też
+    rozwiązywać zadania na CodeWars (coraz częściej korzystam z tej strony).</string>
 
     <!-- Button text -->
     <string name="exit_button">Wyjdź</string>
